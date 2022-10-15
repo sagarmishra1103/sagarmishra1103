@@ -8,4 +8,6 @@
 sagarmishra1103/sagarmishra1103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![@lallo's Holopin board](https://holopin.io/api/user/board?user=lallo)](https://holopin.io/@lallo)
+Here are some of my badges from Holopin
+
+[![@sagarmishra's Holopin board](https://holopin.me/sagarmishra)](https://holopin.io/@sagarmishra)
