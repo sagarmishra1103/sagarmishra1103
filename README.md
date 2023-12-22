@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagarmishra1103
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning programming languages 
-- 💞️ I’m looking to collaborate on Nothing
+- 💞️ I’m looking to collaborate on discussing AI & Data Science
 - 📫 How to reach me shivsagarm50@gmail.com
 
 <!---
