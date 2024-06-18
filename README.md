@@ -13,6 +13,6 @@ Here are some of my badges from Holopin
 [![@sagarmishra's Holopin board](https://holopin.me/sagarmishra)](https://holopin.io/@sagarmishra)
 
 
-<a href="https://github.com/sagarmishra1103"><img src="https://github-readme-stats.vercel.app/api?username=im-sagarmishra1103&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="im-ukr's GitHub stats" /></a>
+<a href="https://github.com/sagarmishra1103"><img src="https://github-readme-stats.vercel.app/api?username=im-ukr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sagarmishra1103's GitHub stats" /></a>
 
-<a href="https://github.com/sagarmishra1103"><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-sagarmishra1103&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/sagarmishra1103"><img src="https://github-readme-streak-stats.herokuapp.com/?user=im-ukrstroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
