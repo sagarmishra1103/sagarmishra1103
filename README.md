@@ -1,9 +1,7 @@
-# Hi there! 👋 I'm  [![Shivsagar Mishra ](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Shivsagar+Mishra)](https://git.io/typing-svg)
 
+## **AI & Data Science Enthusiast** | **Machine Learning** |  **Tech Explorer**  
 
-🚀 **AI & Data Science Enthusiast** | 💡 **Aspiring Innovator** | 🖥️ **Tech Explorer**  
-
-## 🌟 About Me  
 - 👀 Passionate about **Artificial Intelligence & Data Science**  
 - 🌱 Currently expanding my knowledge in **programming languages** & **AI technologies**  
 - 💬 Always up for discussions on **AI, ML, and Data Science**  
