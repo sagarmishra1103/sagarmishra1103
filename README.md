@@ -1,5 +1,5 @@
+# Hi there! 👋 I'm  [![Shivsagar Mishra ](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-# Hi there! 👋 I'm Shivsagar Mishra  
 
 🚀 **AI & Data Science Enthusiast** | 💡 **Aspiring Innovator** | 🖥️ **Tech Explorer**  
 
